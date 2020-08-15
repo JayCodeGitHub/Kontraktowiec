@@ -19,7 +19,7 @@ const Opis = styled.div`
   width: 80vw;
   margin-left: 10vw;
   margin-right: 10vw;
-  margin-bottom: 3vw;
+  margin-bottom: 2.9vw;
   margin-top: 2vw;
 
 `
