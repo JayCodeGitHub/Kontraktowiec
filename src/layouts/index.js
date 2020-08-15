@@ -1,5 +1,5 @@
 import React from "react";
-import Header from '../components/header/header'
+import Header from '../components/Header/Header'
 import GlobalStyle from '../assets/styles/globalStyles'
 import { Helmet } from "react-helmet"
 import Fotter from "../components/Fotter/Fotter"
